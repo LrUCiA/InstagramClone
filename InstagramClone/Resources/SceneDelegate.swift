@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  InstagramClone
 //
-//  Created by LrUCiA on 2022/05/21.
+//  Created by LrUCiA.
 //
 
 import UIKit
